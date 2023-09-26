@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+
+main{
+    width: 50vh;
+    height: 30vh;
+    background-color: brown;
+    border-radius: 15px;
+    position: relative;
+    left: 70vh;
+    top: 30vh;
+
+}
+.botonuno{
+    background-color: blue;
+}
+.botondos{
+    background-color: chocolate;
+
+}
+.botontres{
+    background-color: chartreuse;
+}
